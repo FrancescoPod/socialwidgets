@@ -19,6 +19,8 @@ The app reads different data from the Instagram account (they are only stored on
 Please refer to the following regulation regarding third part services:<br>
 - https://policies.google.com/privacy?hl=en-US 
 - 
+### User's data usage
+All the personal data regarding Facebook Login and Instagram such as: name, surname, country, user id, likes, comments, follower count and posts are used to provide a good experience, homescreen widgets containing information about Instagram posts and provide trends.
 
 ### User's data deletion and management
 All the personal data regarding Facebook Login and Instagram such as: name, surname, country, user id, likes, comments, follower count and posts are saved only on the physical device (to provide a good experience and Instagram post trends) and are not shared in any way. All the information can be simply deleted by tapping on the **Delete data** button that can be found in the **bottom navigation bar in the Settings tab**.<br>
